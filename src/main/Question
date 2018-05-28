@@ -1,0 +1,158 @@
+1. Array-based Programming Interview Questions 
+1. How to find the missing number in given integer array of 1 to 100? (solution)
+
+2. How to find the duplicate number on a given integer array? (solution)
+
+3. How to find the largest and smallest number in an unsorted integer array? (solution)
+
+4. How to find all pairs of integer array whose sum is equal to a given number? (solution)
+
+5. How to find duplicate numbers in an array if it contains multiple duplicates? (solution)
+
+6. How to remove duplicates from given array in Java? (solution)
+
+7. How to sort an integer array in place using QuickSort algorithm? (solution)
+
+8. How to remove duplicates from an array in place? (solution)
+
+9. How to reverse an array in place in Java? (solution)
+
+10. How to find multiple missing numbers in given integer array with duplicates? (solution)
+
+2. String-based Coding Interview Questions
+
+11. How to Print duplicate characters from String? (solution)
+
+12. How to check if two Strings are anagrams of each other? (solution)
+
+13. How to print first non repeated character from String? (solution)
+
+14. How to reverse a given String using recursion? (solution)
+
+15. How to check if a String contains only digits? (solution)
+
+16. How to find duplicate characters in a String? (solution)
+
+17. How to count a number of vowels and consonants in a given String? (solution)
+
+18. How to count the occurrence of a given character in String? (solution)
+
+19. How to find all permutations of String? (solution)
+
+20. How to reverse words in a given sentence without using any library method? (solution)
+
+21. How to check if two String is a rotation of each other? (solution)
+
+22. How to check if given String is Palindrome? (solution)
+
+3. Linked list based Programming Interview Questions
+
+23. How to find middle element of a singly linked list in one pass? (solution)
+
+24. How to check if a given linked list contains cycle? How to find the starting node of the cycle?(solution)
+
+25. How to reverse a linked list? (solution)
+
+26. How to reverse a singly linked list without recursion? (solution)
+
+27. How to remove duplicate nodes in an unsorted linked list? (solution)
+
+28. How to find the length of a singly linked list? (solution)
+
+29. How to find the 3rd node from the end in a singly linked list? (solution)
+
+30. How do you find the sum of two linked list using Stack? (program)
+4. Binary Tree based Coding Interview Questions
+30. Can you write a program to implement a binary search tree?  (solution)
+
+31. How do you perform Pre-order traversal in given binary tree? (solution)
+
+32. Write a Program to traverse a given binary tree in Pre-order without recursion (solution)
+
+33. How to perform an In order traversal in given binary tree? (solution)
+
+34. How to print all nodes of given binary tree using inorder traversal without recursion (solution)
+
+35. How to implement Post-order traversal algorithm? (solution)
+
+36. How to traverse a binary tree in Post order traversal without recursion (solution)
+
+37. How to Print all leaves of a binary search tree? (solution)
+
+38. How to count a number of leaf nodes in given binary tree? (solution)
+
+39. How to perform a binary search in given array? (solution)
+
+5. Miscellaneous Programming Interview Questions
+
+40. How to implement Bubble Sort algorithm? (solution)
+
+41. How to implement Iterative QuickSort Algorithm? (solution)
+
+42. How to implement Insertion Sort Algorithm? (solution)
+
+43. How to implement Merge Sort Algorithm? (solution)
+
+44. How to implement Bucket Sort Algorithm? (solution)
+
+45. How to implement Counting Sort Algorithm? (solution)
+
+46. How to implement Radix Sort Algorithm? (solution)
+
+47. How to swap two numbers without using the third variable? (solution)
+
+48. How to check if two rectangles overlap with each other? (solution)
+
+49. How to design a Vending Machine? (solution)
+
+50. How to implement an LRU Cache in your favorite programming language? (solution)
+
+51. How to check if a given number is a Palindrome? (solution)
+
+52. How do you check if a given number is an Armstrong number? (solution)
+
+53. How do find all prime factors of a given number? (solution)
+
+54. How do check if a given number is a positive or negative in Java? (solution)
+
+55. How to find the largest prime factor of a given integral number? (solution)
+
+56. Write a Program to print all prime numbers up to a given number? (solution)
+
+57. Write a Program to print Floyd's triangle? (solution)
+
+58. Write a Program to print Pascal's triangle? (solution)
+
+59. How to calculate the square root of a given number? (solution)
+
+60. How to check if given number is a prime number? (solution)
+
+61. How to implement Sieve of Eratosthenes Algorithm? (solution)
+
+62. How to add two numbers without using plus operator in Java? (solution)
+
+63. Write a Program to subtract two binary numbers? (solution)
+
+64. Write a Program to transpose a Matrix? (solution)
+
+65. Write a Program to add or subtract two Matrices? (solution)
+
+66. Write a Program to multiply two Matrices in Java? (solution)
+
+67. How to calculate the average of all numbers in given array? (solution)
+
+68. How to check if a given number is even/odd without using Arithmetic operator? (solution)
+
+69. Write a Program to find GCD of two numbers using Euclid's Algorithm? (solution)
+
+70.  How to find the number of 1s (the Set bit) in a given Bit Sequence? (solution)
+
+71. Write a Program to given Pyramid structure? (solution)
+
+72. How to find the highest repeating world from a given file in Java? (solution)
+
+73. How to reverse given Integer in Java? (solution)
+
+74. How to convert a decimal number to binary in Java? (solution)
+
+75. How to check if a given year is a leap year in Java? (solution)
